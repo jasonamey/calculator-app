@@ -1,29 +1,3 @@
-// --very-dark-blue-primary: hsl(222, 26%, 31%);
-// --very-dark-blue-secondary: hsl(223, 31%, 20%);
-// --very-dark-blue-tertiary: hsl(224, 36%, 15%);
-// --dark-blue-primary: hsl(225, 21%, 49%);
-// --dark-blue-secondary: hsl(224, 28%, 35%);
-// --red: hsl(6, 63%, 50%);
-// --dark-red: hsl(6, 70%, 34%);
-// --light-orange: hsl(30, 25%, 89%);
-// --gray-orange: hsl(28, 16%, 65%);
-// --dark-gray-blue: hsl(221, 14%, 31%);
-// --white: hsl(0, 0, 100%);
-
-// export const darkThem = {
-//   mainBackground: "var(--very-dark-blue-primary)",
-//   toggleBackground: "var(--very-dark-blue-secondary)",
-//   screenBackground: "var(--very-dark-blue-tertiary)",
-//   screenColor: "var(--white)",
-//   keyBackground: "var(--dark-blue-primary",
-//   keyShadowMain: "var(--dark-blue-secondary)",
-//   toggle: "var(--red)",
-//   primaryKeyText: "var(--dark-gray-blue)",
-//   keyShadowSecondary: "var(--dark-red)",
-//   keyBackgroundRectangle: "var(--light-orange)",
-//   keyShadowRectangle: "var(--gray-orange)",
-// };
-
 const darkTheme = {
   mainBackgroundColor: "#3B4664",
   padBackgroundColor: "#252D44",
