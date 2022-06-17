@@ -11,6 +11,8 @@ Your users should be able to:
 
 Desktop :
 
+<img src="https://firebasestorage.googleapis.com/v0/b/project-data-ja.appspot.com/o/front-end-mentor%2Fcalculator%2FScreen%20Shot%202022-06-17%20at%201.16.06%20PM.png?alt=media&token=9e3a5a00-ca82-4845-80d1-23e7b3283cad"  width="200" height="200">
+
 ![](https://firebasestorage.googleapis.com/v0/b/project-data-ja.appspot.com/o/front-end-mentor%2Fcalculator%2FScreen%20Shot%202022-06-17%20at%201.16.06%20PM.png?alt=media&token=9e3a5a00-ca82-4845-80d1-23e7b3283cad)
 
 ![](https://firebasestorage.googleapis.com/v0/b/project-data-ja.appspot.com/o/front-end-mentor%2Fcalculator%2FScreen%20Shot%202022-06-17%20at%201.16.12%20PM.png?alt=media&token=0695d441-70e0-474b-9b9a-4d66587ce41a)
