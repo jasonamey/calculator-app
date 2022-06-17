@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+### The challenge
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Your users should be able to:
 
-## Available Scripts
+- See the size of the elements adjust based on their device's screen size
+- Perform mathematical operations like addition, subtraction, multiplication, and division
+- Adjust the color theme based on their preference
+- Bonus: Have their initial theme preference checked using prefers-color-scheme and have any - additional changes saved in the browser
 
-In the project directory, you can run:
+### Screenshot
 
-### `npm start`
+Desktop :
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![](https://firebasestorage.googleapis.com/v0/b/project-data-ja.appspot.com/o/front-end-mentor%2Fcalculator%2FScreen%20Shot%202022-06-17%20at%201.16.06%20PM.png?alt=media&token=9e3a5a00-ca82-4845-80d1-23e7b3283cad)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+![](https://firebasestorage.googleapis.com/v0/b/project-data-ja.appspot.com/o/front-end-mentor%2Fcalculator%2FScreen%20Shot%202022-06-17%20at%201.16.12%20PM.png?alt=media&token=0695d441-70e0-474b-9b9a-4d66587ce41a)
 
-### `npm test`
+![](https://firebasestorage.googleapis.com/v0/b/project-data-ja.appspot.com/o/front-end-mentor%2Fcalculator%2FScreen%20Shot%202022-06-17%20at%201.16.19%20PM.png?alt=media&token=980a4804-9a80-42ae-a6d9-521b1cc97b98)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Mobile :
 
-### `npm run build`
+![](https://firebasestorage.googleapis.com/v0/b/project-data-ja.appspot.com/o/front-end-mentor%2Fcalculator%2FScreen%20Shot%202022-06-17%20at%201.16.35%20PM.png?alt=media&token=def8a9cc-e441-43ff-a67b-92643130477c)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Links
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Solution URL: [Github](https://github.com/jasonamey/entertianment-web-app)
+- Live Site URL: [Hosted by Firebase](https://entertainment-web-app-e9562.web.app/login)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Built With
 
-### `npm run eject`
+-ReactJs
+-TypeScript
+-Firebase Storage
+-Firebase Authentication
+-Webpack
+-Styled Components
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Author
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Portfolio Website - [Jason Amey](https://www.jasonamey.com)
+- Frontend Mentor Profile Page - [@jasonamey](https://www.frontendmentor.io/profile/jasonamey)

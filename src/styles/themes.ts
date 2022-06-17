@@ -1,4 +1,6 @@
-const darkTheme = {
+import {themeType} from "../types";
+
+const darkTheme: themeType = {
   mainBackgroundColor: "#3B4664",
   padBackgroundColor: "#252D44",
   displayBackgroundColor: "#181F32",
@@ -20,7 +22,7 @@ const darkTheme = {
   equalsKeyColor: "#F7FCFE",
 };
 
-const lightTheme = {
+const lightTheme: themeType = {
   mainBackgroundColor: "#E6E6E6",
   padBackgroundColor: "#D3CDCD",
   displayBackgroundColor: "#EEEEEE",
@@ -42,7 +44,7 @@ const lightTheme = {
   equalsKeyColor: "#EEEEEE",
 };
 
-const partyTheme = {
+const partyTheme: themeType = {
   mainBackgroundColor: "#18052A",
   padBackgroundColor: "#1E0935",
   displayBackgroundColor: "#1E0935",
